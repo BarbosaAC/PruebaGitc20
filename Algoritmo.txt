@@ -8,3 +8,6 @@ Inicio
 		mostrar(/n);
 	Fin
 Fin
+linea 1
+linea 2
+linea 3
