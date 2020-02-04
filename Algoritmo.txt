@@ -1,0 +1,10 @@
+Inicio
+	int numero;
+	Mostrar('Escribre un numero');
+	Leer(numero);
+	for(int i=1;i<=10;i++)
+	Inicio
+		mostrar(numero*i);
+		mostrar(/n);
+	Fin
+Fin
